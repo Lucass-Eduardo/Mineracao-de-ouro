@@ -2,7 +2,7 @@
 
 [Zyfra](https://www.zyfra.com/industries/industrial-artificial-intelligence-lab/) é uma empresa de tecnologia com foco em soluções para a indústria pesada, o objetivo desse projeto é treinar modelos  capazes de prever a quantidade de ouro puro extraído do minério de ouro e escolher o melhor modelo.
 
-A extração do ouro é uma tarefa complexa e para entender melhor o projeto é necessário entender o **[processo tecnológico](https://www.notion.so/Processo-Tecnol-gico-9f0537642fc84758a7d8d814acf3b716?pvs=21) da extração do ouro e avaliação do modelo.** 
+A extração do ouro é uma tarefa complexa e para entender melhor o projeto é necessário entender o ***[processo tecnológico](https://www.notion.so/Processo-Tecnol-gico-9f0537642fc84758a7d8d814acf3b716?pvs=21)*** da extração do ouro e avaliação do modelo. 
 
 ## Estrutura do Projeto
 
