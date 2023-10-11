@@ -1,6 +1,3 @@
-# Mineracao-de-ouro
-Este é um projeto de ciência de dados no qual construí um modelo para prever a extração de ouro.
-
 # Descrição
 
 [Zyfra](https://www.zyfra.com/industries/industrial-artificial-intelligence-lab/) é uma empresa de tecnologia com foco em soluções para a indústria pesada, o objetivo desse projeto é treinar modelos  capazes de prever a quantidade de ouro puro extraído do minério de ouro e escolher o melhor modelo.
